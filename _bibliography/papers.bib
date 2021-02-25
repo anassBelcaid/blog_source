@@ -105,7 +105,24 @@
 	title = {Recursive reconstruction of piecewise constant signals by minimization of an energy function},
 	journal = {Inverse Problems {\&} Imaging},
 	selected = {true},
-	html   = {http://www.aimsciences.org/article/doi/10.3934/ipi.2018038}
+	html   = {http://www.aimsciences.org/article/doi/10.3934/ipi.2018038},
+	abstract = {The problem of denoising piecewise constant signals while
+	         preserving their jumps is a challenging problem that arises in many
+	         scientific areas. Several denoising algorithms exist such as total
+	         variation, convex relaxation, Markov random fields models, etc. The
+	         DPS algorithm is a combinatorial algorithm that excels the
+	         classical GNC in term of speed and SNR resistance. However, its
+	         running time slows down considerably for large signals. The main
+	         reason for this bottleneck is the size and the number of linear
+	         systems that need to be solved. We develop a recursive
+	         implementation of the DPS algorithm that uses the conditional
+	         independence, created by a confirmed discontinuity between two
+	         parts, to separate the reconstruction process of each part.
+	         Additionally, we propose an accelerated Cholesky solver which
+	         reduces the computational cost and memory usage. We evaluate the
+	         new implementation on a set of synthetic and real world examples to
+	         compare the quality of our solver. The results show a significant
+	         speed up, especially with a higher number of discontinuities.}
 }
 
 Feedback: support@crossref.org
