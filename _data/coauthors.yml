@@ -2,10 +2,16 @@
   - firstname: ["Mohammed", "M.", ]
     url: https://www.researchgate.net/profile/Mohammed-Douimi 
 
+"Belkbir":
+    - firstname: ["Hicham", "H."]
+      url: https://www.researchgate.net/profile/Belkebir-Hicham
+
 "Zemmouri":
-  - firstname: ["El Moukhtar", "M.",]
+  - firstname: ["El Moukhtar", "E.",]
     url: https://www.researchgate.net/profile/El-Moukhtar-Zemmouri
 
-"Fassi Fihri":
-  - firstname: ["Abdelkader ", "M.",]
+"Fihri":
+  - firstname: ["Abdelkader ", "A."]
     url: https://www.researchgate.net/profile/Abdelkader-Fassi-Fihri
+
+

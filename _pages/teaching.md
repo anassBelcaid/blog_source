@@ -2,10 +2,32 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+------------
+## 2020/2021
+<div id="rcorners">
+<table>
+<th>
+ <img src="{{ site.baserul}} {{ site.url }}/assets/img/c++_course_img.png" alt="C++" width="150" height="100"> 
+</th>
+<th> <b>2021, Winter</b><br>
+<p style="font-size:18px">
+    <a href='/projects/'>
+Introduction to problem solving with C++
+    </a> 
+</p>
+<p style="font-size:12px">reparatory cycle EIDIA-EUROMED</p>
+  
+</table>
+</div>
+<br>
 
-Organize your courses by years, topics, or universities, however you like!
+
+
+
+
+
+
