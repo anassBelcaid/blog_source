@@ -4,6 +4,22 @@
 @string{aps = {American Physical Society,}}
 
 
+% Energy variation {{{ %
+@article{Belcaid_2021,
+	doi = {10.1007/s11045-021-00785-w},
+	url = {https://doi.org/10.1007%2Fs11045-021-00785-w},
+	year = 2021,
+	month = {jul},
+	publisher = {Springer Science and Business Media {LLC}},
+	author = {A. Belcaid and H. Belkbir},
+	title = {Constrained energy variation for change point detection},
+	journal = {Multidimensional Systems and Signal Processing},
+    selected={true},
+    html   = {https://link.springer.com/article/10.1007%2Fs11045-021-00785-w},
+    abbr   = {EnVar},
+    abstract = {The problem of change point detection can be solved either by online methods, based on a discrepancy measure, or by offline methods. The former tries to detect the change points one by one with a sliding window and leads to a lower computational time but are more sensitive to noise. Conversely, offline methods consider the entire data to detect all the change points which make them more robust against the noise but at a price of higher computational cost. In this paper, we propose an operational search method that combines the benefits of both approaches with the double aim to get higher noise resistance while keeping a blazingly fast time. The search method slides over the edges of the signal to determines their state by considering a global constrained energy. Thanks to the calculus of variation, the computation of this energy is reduced to the estimation of the effective jump for each edge. We study the performance and accuracy of our energy variation method to detect the change points in synthetic and real-world examples. The results compare favorably against state of the art algorithm in terms of speed and accuracy.}
+}
+% }}} Energy variation %
 
 % Line Process Classifier {{{ %
 @article{belcaid_2021,
@@ -18,7 +34,7 @@
 	title = {Nonconvex Energy Minimization with Unsupervised Line Process
 	      Classifier for Efficient Piecewise Constant Signals Reconstruction},
 	journal = {Statistics, Optimization \& Information Computing},
-    selected={true},
+    selected={false},
     html   = {http://www.iapress.org/index.php/soic/article/view/994},
     abbr   = {LPclass},
     abstract = {In this paper, we focus on the problem of signal smoothing and step-detection for piecewise constant signals. This problem is central to several applications such as human activity analysis, speech or image analysis, and anomaly detection in genetics. We present a two-stage approach to minimize the well-known line process model which arises from the probabilistic representation of the signal and its segmentation. In the first stage, we minimize a TV least square problem to detect the majority of the continuous edges. In the second stage, we apply a combinatorial algorithm to filter all false jumps introduced by the TV solution. The performances of the proposed method were tested on several synthetic examples. In comparison to recent step-preserving denoising algorithms, the acceleration presents a superior speed and competitive step-detection quality.}
@@ -38,7 +54,7 @@
 	author = {A. Belcaid and M. Douimi},
 	title = {A Novel Online Change Point Detection Using an Approximate Random Blanket and the Line Process Energy},
 	journal = {International Journal on Artificial Intelligence Tools},
-	selected= true,
+	selected= {true},
 	abstract ={In this paper, we focus on the problem of change point detection
 	        in piecewise constant signals. This problem is central to several
 	        applications such as human activity analysis, speech or image
@@ -70,7 +86,7 @@
 	author = {A. Belcaid and M. Douimi and E. Zemmouri},
 	title = {A DPS extension to restore blurred and noisy piecewise constant signals},
 	journal = {Inverse Problems in Science and Engineering},
-	selected = {true},
+	selected = {false},
 	html  =
 	{https://www.tandfonline.com/doi/full/10.1080/17415977.2017.1400029},
 	abstract= {In this paper, we are interested in restoring piecewise constant
