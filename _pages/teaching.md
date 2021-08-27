@@ -15,16 +15,34 @@ nav: true
 </th>
 <th> <b>2021, Winter</b><br>
 <p style="font-size:18px">
-    <a href='/projects/'>
+    <a href='{{ baseurl }}/C221/'>
 Introduction to problem solving with C++
     </a> 
 </p>
 <p style="font-size:12px">reparatory cycle EIDIA-EUROMED</p>
-  
+</th>
 </table>
 </div>
 <br>
 
+
+## 2019/2020
+<div id="rcorners">
+<table>
+<th>
+ <img src="{{ site.baserul}} {{ site.url }}/assets/img/course_ai_ensa.jpg" alt="C++" width="150" height="100"> 
+</th>
+<th> <b>2019, Winter</b><br>
+<p style="font-size:18px">
+    <a href='{{ baseurl }}/courseai/'>
+Artificial Intelligene : An introduction
+    </a> 
+</p>
+<p style="font-size:12px">Embeded System enginneers - ENSA </p>
+</th>
+</table>
+</div>
+<br>
 
 
 
