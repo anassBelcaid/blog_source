@@ -9,14 +9,32 @@ nav: true
 ------------
 
 ## 2021/2022
+
+<div id="rcorners">
+<table>
+<th>
+ <img src="{{ site.baserul}} {{ site.url }}/assets/img/Tux.svg.png" alt="Linux" width="120" height="100"> 
+</th>
+<th> <b>2022, Fall</b><br>
+<p style="font-size:18px">
+    <a href='{{ baseurl }}/GIIA24/'>
+    Introduction to Linux and System Administration
+    </a> 
+</p>
+<p style="font-size:12px">IA and Computer Science, third
+year, ENSA-Safi</p>
+</th>
+</table>
+</div>
+<br>
 <div id="rcorners">
 <table>
 <th>
  <img src="{{ site.baserul}} {{ site.url }}/assets/img/qt_logo.png" alt="C++" width="150" height="100"> 
 </th>
-<th> <b>2021, Winter</b><br>
+<th> <b>2022, Winter</b><br>
 <p style="font-size:18px">
-    <a href='{{ baseurl }}/C221/'>
+    <a href='{{ baseurl }}/CS311/'>
 C++ Gui programming with Qt.
     </a> 
 </p>
@@ -36,7 +54,7 @@ year, Euromed-EIDIA</p>
 </th>
 <th> <b>2021, Winter</b><br>
 <p style="font-size:18px">
-    <a href='{{ baseurl }}/C221/'>
+    <a href='{{ baseurl }}/CS221/'>
 Introduction to problem solving with C++
     </a> 
 </p>
