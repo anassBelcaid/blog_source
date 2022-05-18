@@ -13,6 +13,24 @@ nav: true
 <div id="rcorners">
 <table>
 <th>
+ <img src="{{ site.baserul}} {{ site.url }}/assets/img/ro_logo.png" alt="Linux" width="120" height="100"> 
+</th>
+<th> <b>2022, Fall</b><br>
+<p style="font-size:18px">
+    <a href='{{ baseurl }}/RO101/'>
+    Operations Research : An introduction
+    </a> 
+</p>
+<p style="font-size:12px">IA and Computer Science, Fourth
+year, ENSA-Safi</p>
+</th>
+</table>
+</div>
+<br>
+
+<div id="rcorners">
+<table>
+<th>
  <img src="{{ site.baserul}} {{ site.url }}/assets/img/Tux.svg.png" alt="Linux" width="120" height="100"> 
 </th>
 <th> <b>2022, Fall</b><br>
