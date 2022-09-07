@@ -107,6 +107,24 @@ Introduction to problem solving with C++
 <br>
 
 
+<div id="rcorners">
+<table>
+<th>
+ <img src="{{ site.baserul}} {{ site.url }}/assets/img/algebra.png" alt="algebra" width="150" height="100"> 
+</th>
+<th> <b>2021, Winter</b><br>
+<p style="font-size:18px">
+    <a href='{{ baseurl }}/algebra/'>
+Algebra 101
+    </a> 
+</p>
+<p style="font-size:12px">reparatory cycle EIDIA-EUROMED</p>
+</th>
+</table>
+</div>
+<br>
+
+
 ## 2019/2020
 <div id="rcorners">
 <table>
