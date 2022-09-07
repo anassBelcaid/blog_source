@@ -21,8 +21,8 @@ args = parser.parse_args()
 #}}}
 
 # Default path {{{ #
-source = pathlib.Path("/home/anass/git/anass/blog_source/")
-blog   = pathlib.Path("/home/anass/git/anass/anassBelcaid.github.io")
+source = pathlib.Path("/home/anass/github/blog_source/")
+blog   = pathlib.Path("/home/anass/github/anassBelcaid.github.io")
 build_command = "bundle exec jekyll build"
 # }}} Default path #
 

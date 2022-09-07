@@ -28,6 +28,8 @@ year, ENSA-Safi</p>
 </div>
 <br>
 
+
+
 <div id="rcorners">
 <table>
 <th>
@@ -45,7 +47,29 @@ year, ENSA-Safi</p>
 </table>
 </div>
 <br>
+
 <div id="rcorners">
+<table>
+<th>
+ <img src="{{ site.baserul}} {{ site.url }}/assets/img/proba.png" alt="Linux" width="120" height="100"> 
+</th>
+<th> <b>2022, Fall</b><br>
+<p style="font-size:18px">
+    <a href='{{ baseurl }}/probability_course/'>
+    Probability the Science of uncertainty.
+    </a> 
+</p>
+<p style="font-size:12px"> Second year of the Preparatory cycle. ENSA</p>
+</th>
+</table>
+</div>
+<br>
+
+<br>
+<div id="rcorners">
+
+
+
 <table>
 <th>
  <img src="{{ site.baserul}} {{ site.url }}/assets/img/qt_logo.png" alt="C++" width="150" height="100"> 
